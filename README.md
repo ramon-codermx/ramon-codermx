@@ -1,8 +1,7 @@
+# Hi there! 👋🏽
 I'm Ramón, a Junior Data Analyst focused on leveraging data insights to optimize operational efficiency and enhance the Customer Experience (CX).
 
 With over 15 years of solid experience in high-stakes, bilingual customer service and operations (across financial services, e-commerce, and mobility), I possess a unique ability to translate real-world business challenges into data-driven analytical queries.
-
-🚀 What I'm Focused On:
 
 🔭 I'm currently working on: Applying Data Science methodologies (Python/SQL) to validate patterns and generate actionable insights from complex operational data.
 
