@@ -1,42 +1,22 @@
-# Hi there! 👋🏽
-I'm Ramón, a Junior Data Analyst focused on leveraging data insights to optimize operational efficiency and enhance the Customer Experience (CX).
+# Hi there! I'm Ramón 👋🏽
 
-With over 15 years of solid experience in high-stakes, bilingual customer service and operations (across financial services, e-commerce, and mobility), I possess a unique ability to translate real-world business challenges into data-driven analytical queries.
+**Operations & Customer Experience Specialist | Data-Informed Professional**
 
-🔭 I'm currently working on: Applying Data Science methodologies (Python/SQL) to validate patterns and generate actionable insights from complex operational data.
+With over 18 years of experience in high-stakes, bilingual customer service and information management, I specialize in bridge-building between complex operational workflows and business efficiency. My background spans financial services, e-commerce, and mobility, giving me a 360-degree view of the Customer Experience (CX).
 
-🌱 I'm currently mastering: Python (Pandas, NumPy), SQL, and data visualization tools like Tableau.
+### 🚀 Professional Profile
+I focus on optimizing operational environments through a mix of veteran experience and modern analytical tools. I don't just manage tickets or customers; I understand the logic of the data behind every interaction.
 
-👯 I'm looking to collaborate on: Projects that sit at the intersection of Customer Service, Process Optimization, and Data Analysis. I am eager to help teams turn operational friction into measurable improvements.
+* **Expertise:** B2B/B2C Support, Technical Troubleshooting, Process Optimization, and SLA Management.
+* **Analytical Edge:** Proficiency in SQL and Python applied to operational pattern detection and data integrity.
+* **Communication:** Fully Bilingual (English/Spanish) with extensive experience in international remote environments.
 
-💬 Ask me about: Customer Experience (CX) strategies, operational pattern detection, and bilingual support environments (English/Spanish).
+### 🛠️ Professional Toolkit
+* **Operations:** Zendesk, Corporate CRMs, SAP, and advanced Case Management systems.
+* **Data Literacy:** SQL, Python (Pandas), and Tableau for operational reporting and dashboarding.
+* **Soft Skills:** Conflict Resolution, Crisis Management, and cross-functional team collaboration.
 
-🛠️ My Technical Stack:
+### 🔭 Current Focus
+I am dedicated to applying my extensive background in **Frontline and Back-Office Operations** to help tech-driven companies (SaaS/Fintech) deliver world-class support and seamless implementations.
 
-Category
-
-Tools & Skills
-
-Analysis
-
-Python (Pandas, NumPy), SQL
-
-Visualization
-
-Tableau, Plotly-Express
-
-Data/Ops Platforms
-
-Zendesk, Corporate CRM Systems, Azteca 2000
-
-Languages
-
-Bilingual Professional (English/Spanish)
-
-📫 Let's Connect:
-
-LinkedIn: https://www.linkedin.com/in/ramon-covarrubiasd/
-
-Email: ramcode1@gmail.com
-
-Fun fact: I have a deep appreciation for language structures and frequently try to relate words across Spanish, English, and French!
+---
